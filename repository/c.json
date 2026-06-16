@@ -3278,6 +3278,18 @@
 			]
 		},
 		{
+		    "name": "CompareHistory",
+		    "details": "https://github.com/xalteropsx/CompareHistory",
+		    "labels": ["diff", "compare", "comparison", "version-history", "side-by-side"],
+		    "releases": [
+		        {
+		            "sublime_text": ">=3143",
+		            "tags": true
+		        }
+		    ],
+		    "platforms": ["*"]
+		},
+		{
 			"name": "Compare Side-By-Side",
 			"details": "https://github.com/kaste/Compare-Side-By-Side",
 			"labels": ["diff", "compare", "comparison"],
