@@ -3304,7 +3304,6 @@
 			]
 		},
 		{
-		    "name": "CompareHistory",
 		    "details": "https://github.com/xalteropsx/CompareHistory",
 		    "labels": ["diff", "compare", "comparison", "version-history", "side-by-side"],
 		    "releases": [
