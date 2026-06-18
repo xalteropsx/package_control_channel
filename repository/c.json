@@ -3304,14 +3304,14 @@
 			]
 		},
 		{
-		    "details": "https://github.com/xalteropsx/CompareHistory",
-		    "labels": ["diff", "compare", "comparison", "version-history", "side-by-side"],
-		    "releases": [
-		        {
-		            "sublime_text": ">=3143",
-		            "tags": true
-		        }
-		    ]
+			"details": "https://github.com/xalteropsx/CompareHistory",
+			"labels": ["diff", "compare", "comparison", "version-history", "side-by-side"],
+			"releases": [
+				{
+					"sublime_text": ">=3143",
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "Compass",
